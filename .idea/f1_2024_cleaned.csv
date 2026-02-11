@@ -1,0 +1,240 @@
+round,grand_prix,driver,team,start_pos,finish_pos,points,statusId
+1,Bahrain Grand Prix,Max Verstappen,Red Bull,1,1,26,1
+1,Bahrain Grand Prix,Lance Stroll,Aston Martin,12,10,1,1
+1,Bahrain Grand Prix,Guanyu Zhou,Sauber,17,11,0,11
+1,Bahrain Grand Prix,Kevin Magnussen,Haas F1 Team,15,12,0,11
+1,Bahrain Grand Prix,Daniel Ricciardo,RB F1 Team,14,13,0,11
+1,Bahrain Grand Prix,Yuki Tsunoda,RB F1 Team,11,14,0,11
+1,Bahrain Grand Prix,Alexander Albon,Williams,13,15,0,11
+1,Bahrain Grand Prix,Nico Hülkenberg,Haas F1 Team,10,16,0,11
+1,Bahrain Grand Prix,Esteban Ocon,Alpine F1 Team,19,17,0,11
+1,Bahrain Grand Prix,Pierre Gasly,Alpine F1 Team,20,18,0,11
+1,Bahrain Grand Prix,Valtteri Bottas,Sauber,16,19,0,11
+1,Bahrain Grand Prix,Sergio Pérez,Red Bull,5,2,18,1
+1,Bahrain Grand Prix,Logan Sargeant,Williams,18,20,0,12
+1,Bahrain Grand Prix,Carlos Sainz,Ferrari,4,3,15,1
+1,Bahrain Grand Prix,Charles Leclerc,Ferrari,2,4,12,1
+1,Bahrain Grand Prix,George Russell,Mercedes,3,5,10,1
+1,Bahrain Grand Prix,Lando Norris,McLaren,7,6,8,1
+1,Bahrain Grand Prix,Lewis Hamilton,Mercedes,9,7,6,1
+1,Bahrain Grand Prix,Oscar Piastri,McLaren,8,8,4,1
+1,Bahrain Grand Prix,Fernando Alonso,Aston Martin,6,9,2,1
+2,Saudi Arabian Grand Prix,Max Verstappen,Red Bull,1,1,25,1
+2,Saudi Arabian Grand Prix,Nico Hülkenberg,Haas F1 Team,15,10,1,1
+2,Saudi Arabian Grand Prix,Alexander Albon,Williams,12,11,0,1
+2,Saudi Arabian Grand Prix,Kevin Magnussen,Haas F1 Team,13,12,0,1
+2,Saudi Arabian Grand Prix,Esteban Ocon,Alpine F1 Team,17,13,0,11
+2,Saudi Arabian Grand Prix,Logan Sargeant,Williams,19,14,0,11
+2,Saudi Arabian Grand Prix,Yuki Tsunoda,RB F1 Team,9,15,0,11
+2,Saudi Arabian Grand Prix,Daniel Ricciardo,RB F1 Team,14,16,0,11
+2,Saudi Arabian Grand Prix,Valtteri Bottas,Sauber,16,17,0,11
+2,Saudi Arabian Grand Prix,Guanyu Zhou,Sauber,20,18,0,11
+2,Saudi Arabian Grand Prix,Lance Stroll,Aston Martin,10,19,0,3
+2,Saudi Arabian Grand Prix,Sergio Pérez,Red Bull,3,2,18,1
+2,Saudi Arabian Grand Prix,Pierre Gasly,Alpine F1 Team,18,20,0,6
+2,Saudi Arabian Grand Prix,Charles Leclerc,Ferrari,2,3,16,1
+2,Saudi Arabian Grand Prix,Oscar Piastri,McLaren,5,4,12,1
+2,Saudi Arabian Grand Prix,Fernando Alonso,Aston Martin,4,5,10,1
+2,Saudi Arabian Grand Prix,George Russell,Mercedes,7,6,8,1
+2,Saudi Arabian Grand Prix,Oliver Bearman,Ferrari,11,7,6,1
+2,Saudi Arabian Grand Prix,Lando Norris,McLaren,6,8,4,1
+2,Saudi Arabian Grand Prix,Lewis Hamilton,Mercedes,8,9,2,1
+3,Australian Grand Prix,Carlos Sainz,Ferrari,2,1,25,1
+3,Australian Grand Prix,Kevin Magnussen,Haas F1 Team,14,10,1,11
+3,Australian Grand Prix,Alexander Albon,Williams,12,11,0,11
+3,Australian Grand Prix,Daniel Ricciardo,RB F1 Team,18,12,0,11
+3,Australian Grand Prix,Pierre Gasly,Alpine F1 Team,17,13,0,11
+3,Australian Grand Prix,Valtteri Bottas,Sauber,13,14,0,11
+3,Australian Grand Prix,Guanyu Zhou,Sauber,19,15,0,11
+3,Australian Grand Prix,Esteban Ocon,Alpine F1 Team,15,16,0,11
+3,Australian Grand Prix,George Russell,Mercedes,7,17,0,3
+3,Australian Grand Prix,Lewis Hamilton,Mercedes,11,18,0,5
+3,Australian Grand Prix,Max Verstappen,Red Bull,1,19,0,23
+3,Australian Grand Prix,Charles Leclerc,Ferrari,4,2,19,1
+3,Australian Grand Prix,Lando Norris,McLaren,3,3,15,1
+3,Australian Grand Prix,Oscar Piastri,McLaren,5,4,12,1
+3,Australian Grand Prix,Sergio Pérez,Red Bull,6,5,10,1
+3,Australian Grand Prix,Lance Stroll,Aston Martin,9,6,8,1
+3,Australian Grand Prix,Yuki Tsunoda,RB F1 Team,8,7,6,1
+3,Australian Grand Prix,Fernando Alonso,Aston Martin,10,8,4,1
+3,Australian Grand Prix,Nico Hülkenberg,Haas F1 Team,16,9,2,1
+4,Japanese Grand Prix,Max Verstappen,Red Bull,1,1,26,1
+4,Japanese Grand Prix,Yuki Tsunoda,RB F1 Team,10,10,1,11
+4,Japanese Grand Prix,Nico Hülkenberg,Haas F1 Team,12,11,0,11
+4,Japanese Grand Prix,Lance Stroll,Aston Martin,16,12,0,11
+4,Japanese Grand Prix,Kevin Magnussen,Haas F1 Team,18,13,0,11
+4,Japanese Grand Prix,Valtteri Bottas,Sauber,13,14,0,11
+4,Japanese Grand Prix,Esteban Ocon,Alpine F1 Team,15,15,0,11
+4,Japanese Grand Prix,Pierre Gasly,Alpine F1 Team,17,16,0,11
+4,Japanese Grand Prix,Logan Sargeant,Williams,19,17,0,11
+4,Japanese Grand Prix,Guanyu Zhou,Sauber,20,18,0,6
+4,Japanese Grand Prix,Daniel Ricciardo,RB F1 Team,11,19,0,3
+4,Japanese Grand Prix,Sergio Pérez,Red Bull,2,2,18,1
+4,Japanese Grand Prix,Alexander Albon,Williams,14,20,0,3
+4,Japanese Grand Prix,Carlos Sainz,Ferrari,4,3,15,1
+4,Japanese Grand Prix,Charles Leclerc,Ferrari,8,4,12,1
+4,Japanese Grand Prix,Lando Norris,McLaren,3,5,10,1
+4,Japanese Grand Prix,Fernando Alonso,Aston Martin,5,6,8,1
+4,Japanese Grand Prix,George Russell,Mercedes,9,7,6,1
+4,Japanese Grand Prix,Oscar Piastri,McLaren,6,8,4,1
+4,Japanese Grand Prix,Lewis Hamilton,Mercedes,7,9,2,1
+5,Chinese Grand Prix,Max Verstappen,Red Bull,1,1,25,1
+5,Chinese Grand Prix,Nico Hülkenberg,Haas F1 Team,9,10,1,1
+5,Chinese Grand Prix,Esteban Ocon,Alpine F1 Team,13,11,0,1
+5,Chinese Grand Prix,Alexander Albon,Williams,14,12,0,1
+5,Chinese Grand Prix,Pierre Gasly,Alpine F1 Team,15,13,0,1
+5,Chinese Grand Prix,Guanyu Zhou,Sauber,16,14,0,1
+5,Chinese Grand Prix,Lance Stroll,Aston Martin,11,15,0,1
+5,Chinese Grand Prix,Kevin Magnussen,Haas F1 Team,17,16,0,1
+5,Chinese Grand Prix,Logan Sargeant,Williams,20,17,0,1
+5,Chinese Grand Prix,Daniel Ricciardo,RB F1 Team,12,18,0,31
+5,Chinese Grand Prix,Yuki Tsunoda,RB F1 Team,19,19,0,31
+5,Chinese Grand Prix,Lando Norris,McLaren,4,2,18,1
+5,Chinese Grand Prix,Valtteri Bottas,Sauber,10,20,0,31
+5,Chinese Grand Prix,Sergio Pérez,Red Bull,2,3,15,1
+5,Chinese Grand Prix,Charles Leclerc,Ferrari,6,4,12,1
+5,Chinese Grand Prix,Carlos Sainz,Ferrari,7,5,10,1
+5,Chinese Grand Prix,George Russell,Mercedes,8,6,8,1
+5,Chinese Grand Prix,Fernando Alonso,Aston Martin,3,7,7,1
+5,Chinese Grand Prix,Oscar Piastri,McLaren,5,8,4,1
+5,Chinese Grand Prix,Lewis Hamilton,Mercedes,18,9,2,1
+6,Miami Grand Prix,Lando Norris,McLaren,5,1,25,1
+6,Miami Grand Prix,Esteban Ocon,Alpine F1 Team,13,10,1,1
+6,Miami Grand Prix,Nico Hülkenberg,Haas F1 Team,9,11,0,1
+6,Miami Grand Prix,Pierre Gasly,Alpine F1 Team,12,12,0,1
+6,Miami Grand Prix,Oscar Piastri,McLaren,6,13,0,1
+6,Miami Grand Prix,Guanyu Zhou,Sauber,19,14,0,1
+6,Miami Grand Prix,Daniel Ricciardo,RB F1 Team,20,15,0,1
+6,Miami Grand Prix,Valtteri Bottas,Sauber,16,16,0,1
+6,Miami Grand Prix,Lance Stroll,Aston Martin,11,17,0,1
+6,Miami Grand Prix,Alexander Albon,Williams,14,18,0,1
+6,Miami Grand Prix,Kevin Magnussen,Haas F1 Team,18,19,0,1
+6,Miami Grand Prix,Max Verstappen,Red Bull,1,2,18,1
+6,Miami Grand Prix,Logan Sargeant,Williams,17,20,0,4
+6,Miami Grand Prix,Charles Leclerc,Ferrari,2,3,15,1
+6,Miami Grand Prix,Sergio Pérez,Red Bull,4,4,12,1
+6,Miami Grand Prix,Carlos Sainz,Ferrari,3,5,10,1
+6,Miami Grand Prix,Lewis Hamilton,Mercedes,8,6,8,1
+6,Miami Grand Prix,Yuki Tsunoda,RB F1 Team,10,7,6,1
+6,Miami Grand Prix,George Russell,Mercedes,7,8,4,1
+6,Miami Grand Prix,Fernando Alonso,Aston Martin,15,9,2,1
+7,Emilia Romagna Grand Prix,Max Verstappen,Red Bull,1,1,25,1
+7,Emilia Romagna Grand Prix,Yuki Tsunoda,RB F1 Team,7,10,1,11
+7,Emilia Romagna Grand Prix,Nico Hülkenberg,Haas F1 Team,10,11,0,11
+7,Emilia Romagna Grand Prix,Kevin Magnussen,Haas F1 Team,18,12,0,11
+7,Emilia Romagna Grand Prix,Daniel Ricciardo,RB F1 Team,9,13,0,11
+7,Emilia Romagna Grand Prix,Esteban Ocon,Alpine F1 Team,12,14,0,11
+7,Emilia Romagna Grand Prix,Guanyu Zhou,Sauber,17,15,0,11
+7,Emilia Romagna Grand Prix,Pierre Gasly,Alpine F1 Team,15,16,0,11
+7,Emilia Romagna Grand Prix,Logan Sargeant,Williams,19,17,0,11
+7,Emilia Romagna Grand Prix,Valtteri Bottas,Sauber,16,18,0,11
+7,Emilia Romagna Grand Prix,Fernando Alonso,Aston Martin,20,19,0,11
+7,Emilia Romagna Grand Prix,Lando Norris,McLaren,2,2,18,1
+7,Emilia Romagna Grand Prix,Alexander Albon,Williams,14,20,0,31
+7,Emilia Romagna Grand Prix,Charles Leclerc,Ferrari,3,3,15,1
+7,Emilia Romagna Grand Prix,Oscar Piastri,McLaren,5,4,12,1
+7,Emilia Romagna Grand Prix,Carlos Sainz,Ferrari,4,5,10,1
+7,Emilia Romagna Grand Prix,Lewis Hamilton,Mercedes,8,6,8,1
+7,Emilia Romagna Grand Prix,George Russell,Mercedes,6,7,7,1
+7,Emilia Romagna Grand Prix,Sergio Pérez,Red Bull,11,8,4,1
+7,Emilia Romagna Grand Prix,Lance Stroll,Aston Martin,13,9,2,1
+8,Monaco Grand Prix,Charles Leclerc,Ferrari,1,1,25,1
+8,Monaco Grand Prix,Pierre Gasly,Alpine F1 Team,10,10,1,11
+8,Monaco Grand Prix,Fernando Alonso,Aston Martin,14,11,0,12
+8,Monaco Grand Prix,Daniel Ricciardo,RB F1 Team,12,12,0,12
+8,Monaco Grand Prix,Valtteri Bottas,Sauber,17,13,0,12
+8,Monaco Grand Prix,Lance Stroll,Aston Martin,13,14,0,12
+8,Monaco Grand Prix,Logan Sargeant,Williams,15,15,0,12
+8,Monaco Grand Prix,Guanyu Zhou,Sauber,18,16,0,12
+8,Monaco Grand Prix,Esteban Ocon,Alpine F1 Team,11,17,0,4
+8,Monaco Grand Prix,Sergio Pérez,Red Bull,16,18,0,4
+8,Monaco Grand Prix,Nico Hülkenberg,Haas F1 Team,19,19,0,4
+8,Monaco Grand Prix,Oscar Piastri,McLaren,2,2,18,1
+8,Monaco Grand Prix,Kevin Magnussen,Haas F1 Team,20,20,0,4
+8,Monaco Grand Prix,Carlos Sainz,Ferrari,3,3,15,1
+8,Monaco Grand Prix,Lando Norris,McLaren,4,4,12,1
+8,Monaco Grand Prix,George Russell,Mercedes,5,5,10,1
+8,Monaco Grand Prix,Max Verstappen,Red Bull,6,6,8,1
+8,Monaco Grand Prix,Lewis Hamilton,Mercedes,7,7,7,1
+8,Monaco Grand Prix,Yuki Tsunoda,RB F1 Team,8,8,4,11
+8,Monaco Grand Prix,Alexander Albon,Williams,9,9,2,11
+9,Canadian Grand Prix,Max Verstappen,Red Bull,2,1,25,1
+9,Canadian Grand Prix,Esteban Ocon,Alpine F1 Team,18,10,1,1
+9,Canadian Grand Prix,Nico Hülkenberg,Haas F1 Team,17,11,0,1
+9,Canadian Grand Prix,Kevin Magnussen,Haas F1 Team,14,12,0,1
+9,Canadian Grand Prix,Valtteri Bottas,Sauber,0,13,0,1
+9,Canadian Grand Prix,Yuki Tsunoda,RB F1 Team,8,14,0,1
+9,Canadian Grand Prix,Guanyu Zhou,Sauber,0,15,0,11
+9,Canadian Grand Prix,Carlos Sainz,Ferrari,12,16,0,4
+9,Canadian Grand Prix,Alexander Albon,Williams,10,17,0,4
+9,Canadian Grand Prix,Sergio Pérez,Red Bull,16,18,0,3
+9,Canadian Grand Prix,Charles Leclerc,Ferrari,11,19,0,5
+9,Canadian Grand Prix,Lando Norris,McLaren,3,2,18,1
+9,Canadian Grand Prix,Logan Sargeant,Williams,13,20,0,3
+9,Canadian Grand Prix,George Russell,Mercedes,1,3,15,1
+9,Canadian Grand Prix,Lewis Hamilton,Mercedes,7,4,13,1
+9,Canadian Grand Prix,Oscar Piastri,McLaren,4,5,10,1
+9,Canadian Grand Prix,Fernando Alonso,Aston Martin,6,6,8,1
+9,Canadian Grand Prix,Lance Stroll,Aston Martin,9,7,6,1
+9,Canadian Grand Prix,Daniel Ricciardo,RB F1 Team,5,8,4,1
+9,Canadian Grand Prix,Pierre Gasly,Alpine F1 Team,15,9,2,1
+10,Spanish Grand Prix,Max Verstappen,Red Bull,2,1,25,1
+10,Spanish Grand Prix,Esteban Ocon,Alpine F1 Team,8,10,1,1
+10,Spanish Grand Prix,Nico Hülkenberg,Haas F1 Team,13,11,0,1
+10,Spanish Grand Prix,Fernando Alonso,Aston Martin,10,12,0,11
+10,Spanish Grand Prix,Guanyu Zhou,Sauber,15,13,0,11
+10,Spanish Grand Prix,Lance Stroll,Aston Martin,14,14,0,11
+10,Spanish Grand Prix,Daniel Ricciardo,RB F1 Team,18,15,0,11
+10,Spanish Grand Prix,Valtteri Bottas,Sauber,12,16,0,11
+10,Spanish Grand Prix,Kevin Magnussen,Haas F1 Team,16,17,0,11
+10,Spanish Grand Prix,Alexander Albon,Williams,0,18,0,11
+10,Spanish Grand Prix,Yuki Tsunoda,RB F1 Team,17,19,0,11
+10,Spanish Grand Prix,Lando Norris,McLaren,1,2,19,1
+10,Spanish Grand Prix,Logan Sargeant,Williams,19,20,0,12
+10,Spanish Grand Prix,Lewis Hamilton,Mercedes,3,3,15,1
+10,Spanish Grand Prix,George Russell,Mercedes,4,4,12,1
+10,Spanish Grand Prix,Charles Leclerc,Ferrari,5,5,10,1
+10,Spanish Grand Prix,Carlos Sainz,Ferrari,6,6,8,1
+10,Spanish Grand Prix,Oscar Piastri,McLaren,9,7,6,1
+10,Spanish Grand Prix,Sergio Pérez,Red Bull,11,8,4,1
+10,Spanish Grand Prix,Pierre Gasly,Alpine F1 Team,7,9,2,1
+11,Austrian Grand Prix,George Russell,Mercedes,3,1,25,1
+11,Austrian Grand Prix,Pierre Gasly,Alpine F1 Team,13,10,1,1
+11,Austrian Grand Prix,Charles Leclerc,Ferrari,6,11,0,1
+11,Austrian Grand Prix,Esteban Ocon,Alpine F1 Team,10,12,0,1
+11,Austrian Grand Prix,Lance Stroll,Aston Martin,17,13,0,11
+11,Austrian Grand Prix,Yuki Tsunoda,RB F1 Team,14,14,0,11
+11,Austrian Grand Prix,Alexander Albon,Williams,16,15,0,11
+11,Austrian Grand Prix,Valtteri Bottas,Sauber,18,16,0,11
+11,Austrian Grand Prix,Guanyu Zhou,Sauber,20,17,0,11
+11,Austrian Grand Prix,Fernando Alonso,Aston Martin,15,18,0,11
+11,Austrian Grand Prix,Logan Sargeant,Williams,19,19,0,12
+11,Austrian Grand Prix,Oscar Piastri,McLaren,7,2,18,1
+11,Austrian Grand Prix,Lando Norris,McLaren,2,20,0,17
+11,Austrian Grand Prix,Carlos Sainz,Ferrari,4,3,15,1
+11,Austrian Grand Prix,Lewis Hamilton,Mercedes,5,4,12,1
+11,Austrian Grand Prix,Max Verstappen,Red Bull,1,5,10,1
+11,Austrian Grand Prix,Nico Hülkenberg,Haas F1 Team,9,6,8,1
+11,Austrian Grand Prix,Sergio Pérez,Red Bull,8,7,6,1
+11,Austrian Grand Prix,Kevin Magnussen,Haas F1 Team,12,8,4,1
+11,Austrian Grand Prix,Daniel Ricciardo,RB F1 Team,11,9,2,1
+12,British Grand Prix,Lewis Hamilton,Mercedes,2,1,25,1
+12,British Grand Prix,Yuki Tsunoda,RB F1 Team,13,10,1,1
+12,British Grand Prix,Logan Sargeant,Williams,12,11,0,1
+12,British Grand Prix,Kevin Magnussen,Haas F1 Team,17,12,0,1
+12,British Grand Prix,Daniel Ricciardo,RB F1 Team,15,13,0,11
+12,British Grand Prix,Charles Leclerc,Ferrari,11,14,0,11
+12,British Grand Prix,Valtteri Bottas,Sauber,16,15,0,11
+12,British Grand Prix,Esteban Ocon,Alpine F1 Team,18,16,0,12
+12,British Grand Prix,Sergio Pérez,Red Bull,0,17,0,12
+12,British Grand Prix,Guanyu Zhou,Sauber,14,18,0,12
+12,British Grand Prix,George Russell,Mercedes,1,19,0,34
+12,British Grand Prix,Max Verstappen,Red Bull,4,2,18,1
+12,British Grand Prix,Pierre Gasly,Alpine F1 Team,19,20,0,6
+12,British Grand Prix,Lando Norris,McLaren,3,3,15,1
+12,British Grand Prix,Oscar Piastri,McLaren,5,4,12,1
+12,British Grand Prix,Carlos Sainz,Ferrari,7,5,11,1
+12,British Grand Prix,Nico Hülkenberg,Haas F1 Team,6,6,8,1
+12,British Grand Prix,Lance Stroll,Aston Martin,8,7,6,1
+12,British Grand Prix,Fernando Alonso,Aston Martin,10,8,4,1
+12,British Grand Prix,Alexander Albon,Williams,9,9,2,1
